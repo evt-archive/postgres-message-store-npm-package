@@ -1,7 +1,7 @@
 {
   "name": "@eventide/postgres-message-store",
   "version": "1.1.0",
-  "description": "Database definition for message store built in PostgreSQL",
+  "description": "Database definition and tools for PostgreSQL message store",
   "author": "Eventide Project",
   "license": "MIT",
   "homepage": "https://github.com/eventide-project/postgres-message-store-npm-package#readme",

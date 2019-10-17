@@ -2,6 +2,12 @@
 
 Database definition and tools for PostgreSQL message store
 
+## Installation
+
+``` bash
+npm install @eventide/postgres-message-store
+```
+
 ## Documentation
 
 See the message store documentation on the Eventide docs site:
